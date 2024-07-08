@@ -1,2 +1,3 @@
 # ai_chess
-Work-in-progress AI chess engine
+
+Play against an AI chess bot trained on 41,113,402 positional evaluations from Stockfish.
